@@ -1,5 +1,6 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
+    font-family: 'Book Antiqua';
 }
 
 @media (min-width: 768px) {
@@ -15,4 +16,8 @@ html {
 
 body {
   margin-bottom: 60px;
+}
+
+h1 { 
+    text-align: center;
 }
